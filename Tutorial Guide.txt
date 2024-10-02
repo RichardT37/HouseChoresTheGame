@@ -1,0 +1,7 @@
+Fetch
+Pull
+Edit stuff
+Write Description
+Commit
+Push
+Merge?
