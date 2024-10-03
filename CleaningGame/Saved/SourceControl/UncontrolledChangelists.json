@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/CleaningGame/Content/_Game/Maps/MainMap.umap",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/CleaningGame/Content/_Game/Inputs/IA_Movement.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/CleaningGame/Content/_Game/Inputs/IMC_Movement.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/CleaningGame/Content/_Game/Blueprints/BP_Character.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/CleaningGame/Content/_Game/Blueprints/BP_GameMode.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/CleaningGame/Content/_Game/Blueprints/BP_PlaterController.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/CleaningGame/Content/_Game/Blueprints/BP_PlayerController.uasset"
+			]
+		}
+	]
+}
